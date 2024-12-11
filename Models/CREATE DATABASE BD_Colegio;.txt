@@ -1,0 +1,42 @@
+CREATE DATABASE BD_Colegio;
+
+USE BD_Colegio;
+
+-- Crear la tabla Estudiantes
+CREATE TABLE Estudiantes (
+    Id INT IDENTITY(1,1) PRIMARY KEY,  -- Usamos IDENTITY en lugar de AUTO_INCREMENT
+    Nombre VARCHAR(100) NOT NULL,
+    Carrera VARCHAR(100),
+    CorreoElectronico VARCHAR(100) UNIQUE
+);
+
+-- Crear la tabla Cursos
+CREATE TABLE Cursos (
+    Id INT IDENTITY(1,1) PRIMARY KEY,  -- Usamos IDENTITY en lugar de AUTO_INCREMENT
+    Nombre_del_curso VARCHAR(100) NOT NULL,
+    Nivel VARCHAR(50),
+    Profesor VARCHAR(100)
+);
+
+
+INSERT INTO Estudiantes (Nombre, Carrera, CorreoElectronico)
+VALUES
+('Juan Pérez', 'Ingeniería de Sistemas', 'juan.perez@example.com'),
+('Ana Martínez', 'Medicina', 'ana.martinez@example.com'),
+('Luis García', 'Arquitectura', 'luis.garcia@example.com'),
+('María López', 'Derecho', 'maria.lopez@example.com'),
+('Carlos Rodríguez', 'Economía', 'carlos.rodriguez@example.com');
+
+
+INSERT INTO Cursos (Nombre_del_curso, Nivel, Profesor)
+VALUES
+('Introducción a la Programación', 'Básico', 'Juan Pérez'),
+('Estructuras de Datos', 'Intermedio', 'Ana Martínez'),
+('Matemáticas Avanzadas', 'Avanzado', 'Luis García'),
+('Derecho Constitucional', 'Intermedio', 'María López'),
+('Economía Internacional', 'Avanzado', 'Carlos Rodríguez');
+
+
+select * from Estudiantes;
+
+select * from Cursos;

@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|c:\\users\\intel\\downloads\\webapplicationexamparcial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DCECA54-CFD5-46E7-9686-FDBFDDE525B6}|WebApplicationExamParcial.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "dbd0e6a1-2140-4879-8b60-211dad393205",
+        "Display": 0,
+        "X": 0,
+        "Y": 65,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "Controllers\\CursosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:18:27.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Models\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "Models\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T04:02:14.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-11T03:59:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:50:04.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T02:54:48.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwKgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:18:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:49:49.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:47:26.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Cursos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cursos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Cursos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cursos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T03:22:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T03:12:58.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T01:49:34.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\INTEL\\Downloads\\WebApplicationExamParcial\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T01:57:58.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

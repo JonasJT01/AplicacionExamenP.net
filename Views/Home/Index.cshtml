@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <!-- Banner Section -->
+    <section class="banner">
+        <div class="container text-center">
+            <img src="~/Imagenes/banner2.png" alt="Juan Velasco Alvarado School" class="img-fluid">
+
+        </div>
+    </section>
+
+    <!-- Main Content Section -->
+    <section class="row text-center" aria-labelledby="aspnetTitle">
+        <h1 id="title">Administrar informacion</h1>
+        <p class="lead">
+            Consulta la lista de estudiantes y cursos de acuerdo a los registros almacenados en nuestra base de datos.
+            Esta plataforma te permite acceder fácilmente a información detallada sobre los cursos disponibles, incluyendo el nombre del curso,  los profesores encargados.
+            Todo esto se actualiza en tiempo real, por lo que siempre tendrás acceso a la información más reciente.
+
+        </p>
+
+
+        <div class="d-flex justify-content-center">
+
+            <p><a href="@Url.Action("Index", "Estudiantes")" class="btn btn-primary btn-md mx-2">Ver Estudiantes &raquo;</a></p>
+            <p><a href="@Url.Action("Index", "Cursos")" class="btn btn-primary btn-md mx-2">Ver Cursos &raquo;</a></p>
+
+        </div>
+    </section>
+
+
+
+    <div class="row">
+        <!-- Testimonio 1 -->
+        <section class="col-md-4" aria-labelledby="testimonialTitle1">
+            <h2 id="testimonialTitle1">Lo que dicen nuestros estudiantes</h2>
+            <img src="~/Imagenes/estudiantespatio.jpg" alt="Estudiante feliz" class="img-fluid mb-3" />
+            <p>
+                "La universidad Juan Velasco Alvarado me ha brindado una educación excepcional. Los profesores son muy atentos y siempre están dispuestos a ayudar. Además, las actividades extracurriculares, como el deporte y el arte, me han permitido desarrollar mis habilidades personales."
+            </p>
+            <p><a class="btn btn-outline-dark" href="#">Conoce más sobre nuestra experiencia &raquo;</a></p>
+        </section>
+
+        <!-- Testimonio 2 -->
+        <section class="col-md-4" aria-labelledby="testimonialTitle2">
+            <h2 id="testimonialTitle2">Estudiantes satisfechos</h2>
+            <img src="~/Imagenes/trabajogrupal.png" alt="Estudiante en clase" class="img-fluid mb-3" />
+            <p>
+                "Elegí esta universidad porque me ofrecieron un enfoque integral que no solo se enfoca en lo académico, sino también en el desarrollo de mi personalidad. Es un lugar donde me siento acompañado y apoyado."
+            </p>
+            <p><a class="btn btn-outline-dark" href="#">Descubre por qué nos eligen &raquo;</a></p>
+        </section>
+
+        <!-- Testimonio 3 -->
+        <section class="col-md-4" aria-labelledby="testimonialTitle3">
+            <h2 id="testimonialTitle3">La mejor decisión</h2>
+            <img src="~/Imagenes/comunicacion-linea_1098-15842.jpg" alt="Grupo de estudiantes" class="img-fluid mb-3" />
+            <p>
+                "Me encanta estudiar en esta univerisidad. La infraestructura es moderna, los profesores son muy profesionales y el ambiente estudiantil es muy positivo. Me siento motivado para alcanzar mis metas."
+            </p>
+            <p><a class="btn btn-outline-dark" href="#">¡Únete a nuestra comunidad! &raquo;</a></p>
+        </section>
+    </div>
+
+</main>
+
+<!-- Add some styles for the banner -->
+<style>
+    .banner {
+        background-color: #003366; /* Dark blue background */
+        color: white;
+        padding: 40px 0;
+        margin-bottom: 30px;
+    }
+
+        .banner img {
+            max-width: 100%;
+            height: auto;
+        }
+
+    .banner-text {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+</style>
